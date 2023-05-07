@@ -15,7 +15,7 @@
 
 
 </script>
-<template>
+<!-- <template>
     <h1 v-if="numero >=2 || numero <=25">
         Verdadero
     </h1>
@@ -26,4 +26,4 @@
     <h1 >
         hola
     </h1>
-</template>
+</template> -->
